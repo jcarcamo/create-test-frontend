@@ -28,13 +28,13 @@ const About = () => {
 
                   <h4>Final thoughts</h4>
                   <p className="text-justify">
-                      Although I tried to understand redux I only manage to follow a tutorial which kind of helped me handling the log-in state globally. However due to the lack of time I ended up using sessionStorage like a mere mortal.The front-end is not complete yet, it is missing storing the answers.
+                      Although I tried to understand redux I only manage to follow a tutorial which kind of helped me handling the log-in state globally. However due to the lack of time I ended up using sessionStorage like a mere mortal. The front-end is not complete yet, it is missing storing the answers.
                   </p>
 
                   <h4>References</h4>
                   <ul>
                       <li>
-                          <a href='https://github.com/jcarcamo/create-test-api'>
+                          <a href='https://cis-658-create-test.herokuapp.com/'>
                               Live Demo
                           </a>
                       </li>
